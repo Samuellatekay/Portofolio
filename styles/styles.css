@@ -1,0 +1,28 @@
+body{
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.Home{
+    height: 100vh;
+    background: linear-gradient(
+    rgba(0,0,0,0.8),
+    rgba(0,0,0,0.2)), 
+    url(../Gambar/Gambar\ 1.jpg);
+    background-size: cover;
+}
+
+.awal{
+    color: white;
+    padding: 5% 20%;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nama{
+    font-size: 50px;
+    font-weight: bold;
+}
